@@ -1,0 +1,11 @@
+git add git commit git push,git status, git pull,git bash,git clone
+
+git config --global user.name "Name"
+
+git config --global user.email "email"
+
+git config --global user.email
+
+git config --global user.email
+
+token: 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
