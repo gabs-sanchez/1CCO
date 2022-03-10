@@ -1,2 +1,0 @@
-# 1CCO
-backup cco
