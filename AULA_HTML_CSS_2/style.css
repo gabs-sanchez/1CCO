@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.header{
+    border: 3px solid aqua;
+}
+.header .container{
+    width: 80%;
+    border:3px solid blue;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    font-family: monospace;
+
+}
+
+.titulo{
+    border: 3px solid red;
+    color: aqua;
+    width:fit-content; /*"auto"*/
+}
+
+.navBar{
+    color:yellow;
+    border: 3px solid green;
+    list-style: none; /* tira as bolinhas*/
+    display: flex; /* Display flexivel*/
+   justify-content: right; 
+   justify-content: space-evenly;
+   width: 300px;
+   padding: 0px; /* cria margem para dentro*/
+   align-items: center;
+}
